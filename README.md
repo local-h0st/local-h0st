@@ -1,6 +1,9 @@
 # Hello bro you are visiting my github homepage now
-*I would say something non-esense like " *my next nickname would = "PureLov3" ( maybe , haha )* " or so , I am not sure
+
+*I would say something non-esense like " my next nickname would = "PureLov3" ( maybe , haha ) " or so , I am not sure*
+
 **I am a college student from SEU , who majors in Computer Science and I have a fever in Web Security you know , and I am a CTFer ( though I still lack experience , lol , but that would not b a problem )**
+
 **My Plans:**
 1. Steganography in Files
 2. Web
