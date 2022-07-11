@@ -7,10 +7,13 @@
 📌**I am a CTFer ( though I still lack experience , lol , but that would not beeeee a problem )**
 
 👍**My Plans:**
-1. Steganography in Files!
-2. Web and Misc
-3. Learning Python( Attention! -ing! )
-4. Learn Go , then Java and Node.js( Maybe after a period of time /sad )
+* Nodejs
+* CTF Web and Misc
+* Learn Go , then Java ( Maybe after a period of time /sad )
+
+**What I've done:**
+* Steganography( I have learned LSB in png, but it's a endless process to master it )
+* Basic usage of Python
 
 ✔️Maybe that would be my current aims and I would push to thee
 
