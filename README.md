@@ -6,8 +6,8 @@
 
 👍**My Plans:**
 * CTF Web and Misc
+* Write my own Python ORM
 * Learn Go , then Node.js and Java ( Maybe after a period of time /sad )
-
-✔️Maybe that would be my current aims and I would push to thee
+* Maybe a css generator?
 
 ## Salute , to you and me .
