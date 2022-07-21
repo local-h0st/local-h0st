@@ -6,8 +6,8 @@
 
 👍**My Plans:**
 * CTF Web and Misc
-* Write my own Python ORM
 * Learn Go , then Node.js and Java ( Maybe after a period of time /sad )
 * Maybe a css generator?
+* 3D graphic process with Python?
 
 ## Salute , to you and me .
