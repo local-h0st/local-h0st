@@ -2,7 +2,7 @@
 
 **I am a college student from SEU , who majors in Computer Science and I have a fever in Web Security you know : )**
 
-📌**I am a CTFer ( though I still lack experience , lol , but that would not beeeee a problem )**
+📌**I am a CTFer, though I still lack experience :)**
 
 👍**My Plans:**
 * CTF Web and Misc
