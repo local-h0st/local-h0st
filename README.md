@@ -7,6 +7,7 @@
 👍**My Plans:**
 * CTF Web and Misc
 * Learn Go , then Node.js and Java ( Maybe after a period of time /sad )
+* TypeScript
 * css生成器
 * Python3D图像处理
 * 2D物理引擎
