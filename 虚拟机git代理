@@ -1,0 +1,6 @@
+虚拟机设置
+```
+git config --global http.proxy socks5://192.168.56.1:7890
+git config --global https.proxy socks5://192.168.56.1:7890
+```
+物理机开clash（Rule即可）
